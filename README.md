@@ -6,9 +6,7 @@ Version 1.0
 
 ## Usage
 ```
-git clone hhttps://github.com/gvaishno/isprivate
-cd isprivate
-go build
+wget https://github.com/gvaishno/isprivate/releases/download/v1/isprivate.exe
 ./isprivate -i 127.0.0.1
 ```
 
